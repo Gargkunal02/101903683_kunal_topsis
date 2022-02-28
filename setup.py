@@ -8,7 +8,7 @@ setup(
   author = 'Kunal Garg',
   author_email = 'kgarg2_be19@thapar.edu',
   url = 'https://github.com/Gargkunal02/101903683_kunal_topsis',
-  download_url = '',
+  download_url = 'https://github.com/Gargkunal02/101903683_kunal_topsis/archive/refs/tags/version.tar.gz',
   keywords = ['topsis','topsis score','rank','Thapar'],
   install_requires=['numpy','pandas' ],
   classifiers=[
